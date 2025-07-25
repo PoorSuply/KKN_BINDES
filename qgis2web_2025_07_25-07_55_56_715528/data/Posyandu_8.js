@@ -1,0 +1,1 @@
+var json_Posyandu_8 = {"type":"FeatureCollection","name":"Posyandu_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"NM_bangun":"Posyandu"},"geometry":{"type":"Point","coordinates":[117.557674656273647,0.373474182734902]}}]}

@@ -1,0 +1,1 @@
+var json_TempatIbadah_7 = {"type":"FeatureCollection","name":"TempatIbadah_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"NM_bangun":"Masjid Al-Ikhlas"},"geometry":{"type":"Point","coordinates":[117.557613055350728,0.373132123693886]}}]}
